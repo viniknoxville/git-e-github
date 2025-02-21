@@ -1,0 +1,79 @@
+assma@MARCOS MINGW64 ~/Desktop/numero-secreto (main)
+$ git log
+commit f0e83d158cacc92e5069c24bb7e7d8df698f87cd (HEAD -> main, origin/main, origin/HEAD)
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Fri Feb 21 16:36:17 2025 -0300
+
+    mudanças no titulo e gitignore
+
+commit dbf00f8ff533f6e0d471df37be5fdfc26a11f338
+Author: Marcos Ribeiro <ass.marcosribeiro@gmail.com>
+Date:   Thu Feb 20 21:12:49 2025 -0300
+
+    Update README.md
+
+commit f1ef8313af5180fcc693009563ac7f218fccf93e
+Author: Marcos Ribeiro <ass.marcosribeiro@gmail.com>
+commit f0e83d158cacc92e5069c24bb7e7d8df698f87cd (HEAD -> main, origin/main, origin/HEAD)
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Fri Feb 21 16:36:17 2025 -0300
+
+    mudanças no titulo e gitignore
+
+commit dbf00f8ff533f6e0d471df37be5fdfc26a11f338
+Author: Marcos Ribeiro <ass.marcosribeiro@gmail.com>
+Date:   Thu Feb 20 21:12:49 2025 -0300
+
+    Update README.md
+
+commit f1ef8313af5180fcc693009563ac7f218fccf93e
+Author: Marcos Ribeiro <ass.marcosribeiro@gmail.com>
+Date:   Thu Feb 20 20:59:47 2025 -0300
+
+    Create README.md
+
+    criando Redme.md
+
+commit 989f4b8baeface5e358b260e8b3ed60d34184bbe
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Thu Feb 20 20:46:45 2025 -0300
+
+    alterando arquivo
+
+commit 2d06bbec7dc2cb30a82dde7b2d769570a9efaa88
+Merge: 52750ee e723904
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Thu Feb 20 20:46:06 2025 -0300
+
+    Merge branch 'main' of github.com:viniknoxville/numero-secreto
+
+commit 52750eeaaac9a710aff338ad16eae76499988237
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Thu Feb 20 20:43:34 2025 -0300
+
+    enviando arquivo
+
+commit c535c20145c8060433cf603b1ed68a157a3cfedb
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Wed Feb 19 22:14:33 2025 -0300
+
+    Alterando a dificuldade do jogo
+
+commit e723904669b2c0e6ff7d79bea619cb969081a699
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Wed Feb 19 22:14:33 2025 -0300
+
+    deixando o jogo mais fácil
+
+commit 0bdfb0ec0122403878c3165ee9bea5e761ae3068
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Wed Feb 19 20:50:46 2025 -0300
+
+    altrando limite para 100
+
+commit fd1ee7586091c1fa6372f2746db3708b8804aa30
+Author: viniknoxville <ass.marcosribeiro@gmail.com>
+Date:   Mon Feb 17 21:56:18 2025 -0300
+
+    projeto inicial
+(END)
