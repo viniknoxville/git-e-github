@@ -1,4 +1,4 @@
-# Meu Repositório do Curso de Git e GitHub - Alura
+# Repositório do Curso de Git e GitHub - Alura
 
 <div align="center">
   <h2 style="color: #2E86C1;">🚀 Bem-vindo(a) ao meu repositório! 🚀</h2>
