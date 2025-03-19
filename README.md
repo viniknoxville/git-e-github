@@ -1,9 +1,4 @@
-# Repositório do Curso de Git e GitHub - Alura
-
-<div align="center">
-  <h2 style="color: #2E86C1;">🚀 Bem-vindo(a) ao meu repositório! 🚀</h2>
-  <p style="font-size: 18px;">Este repositório faz parte do curso de <strong>Git e GitHub</strong> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>. Aqui, estou praticando conceitos fundamentais de versionamento de código e colaboração em projetos.</p>
-</div>
+# ![Banner do Projeto](img/ONE.png)
 
 ## 📌 O que você encontrará aqui?
 - 📖 Comandos básicos e avançados do Git
